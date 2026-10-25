@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="82" height="28" viewBox="0 0 82 28" role="img" aria-labelledby="title desc">
+<title id="title">Azure</title>
+<desc id="desc">Azure, part of Kavin&#x27;s working stack. Original category icon.</desc>
+<rect x=".5" y=".5" width="81" height="27" rx="13.5" fill="#1a1a1a" stroke="#49453f"/><g transform="translate(10 5) scale(.95)" fill="none" stroke="#e0603f" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M4 13a3 3 0 0 1-.3-6 4.5 4.5 0 0 1 8.7-1A3.5 3.5 0 0 1 13 13H4Z"/></g><text x="33" y="18" fill="#edeae4" font-family="Arial,Helvetica,sans-serif" font-size="11.5" font-weight="600" letter-spacing="0">Azure</text>
+</svg>
